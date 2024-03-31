@@ -68,3 +68,13 @@ These are Example Notebooks to inference or reproduce the results
 -  [Example Test VIT.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/Example_test_vit.ipynb)
 
 ## Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction
+Trained a Resnet-15 model using SimCLR self-supervised learning approach on unlabelled approach.
+Finetuned the Encoder backbone on labelled dataset.
+Trained the Resnet-15 encoder backbone from scratch.
+
+### Comparison of With and Without Pretrained Vision Transformer Model
+
+                          | Model               | Accuracy |
+                          |---------------------|----------|
+                          | With Pretrained     | 0.7589   |
+                          | Without Pretrained  | 0.790    |
