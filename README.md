@@ -67,4 +67,4 @@ These are Example Notebooks to inference or reproduce the results
 -  [Example Test vgg12.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/Example_test_vgg.ipynb)
 -  [Example Test VIT.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/Example_test_vit.ipynb)
 
-# Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction
+## Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction
