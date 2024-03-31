@@ -21,14 +21,14 @@ This repository contains solutions for various particle physics tasks using deep
 #### Training Notebook:
 Here are the notebooks showing complete training process
 
-- [Common Task 1.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/common-task-1.ipynb)
+- [Common Task 1.ipynb](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/common-task-1.ipynb)
 - Includes data loading, model definition, training, evaluation, and model weights
 
 #### Example Notebook:
 These are Example Notebooks to inference or reproduce the results
 
--  [Example Test.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/Example%20Test.ipynb)
--  [Example Train.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/Example%20Train.ipynb)
+-  [Example Test.ipynb](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/Example%20Test.ipynb)
+-  [Example Train.ipynb](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Common%20Task%201/Common%20Task1%20Approach%201/Example%20Train.ipynb)
 
 ## Common Task 2: Deep Learning based Quark-Gluon Classification
 
@@ -57,15 +57,15 @@ These are Example Notebooks to inference or reproduce the results
 #### Notebooks:
 Here are the notebooks showing complete training process
 
-- [vgg-task2.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/vgg-task2.ipynb)
-- [VisionTransformer - Task 2.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/VisionTransformer%20-%20Task%202.ipynb)
+- [vgg-task2.ipynb](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Common%20task2/vgg-task2.ipynb)
+- [VisionTransformer - Task 2.ipynb](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Common%20task2/VisionTransformer%20-%20Task%202.ipynb)
 - Include data loading, model definition, training, evaluation, and model weights
 
 #### Example Notebook:
 These are Example Notebooks to inference or reproduce the results
 
--  [Example Test vgg12.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/Example_test_vgg.ipynb)
--  [Example Test VIT.ipynb](https://github.com/Wodlfvllf/End-to-End-Deep-Learning-Project/blob/main/Common%20task2/Example_test_vit.ipynb)
+-  [Example Test vgg12.ipynb](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Common%20task2/Example_test_vgg.ipynb)
+-  [Example Test VIT.ipynb](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Common%20task2/Example_test_vit.ipynb)
 
 ## Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction
 Trained a Resnet-15 model using SimCLR self-supervised learning approach on unlabelled approach.
