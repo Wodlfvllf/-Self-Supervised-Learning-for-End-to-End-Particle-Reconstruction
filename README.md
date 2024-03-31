@@ -82,3 +82,22 @@ Trained the Resnet-15 encoder backbone from scratch.
                           |---------------------|----------|
                           | With Pretrained     | 0.7589   |
                           | Without Pretrained  | 0.790    |
+
+### Notebooks
+[Resnet-15 Pretraining using SimCLR](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Specific%20task%203c%20Self-Supervised%20Learning/SIMCLR%20Pretraining.ipynb)
+[Resnet-15 Finetuned using SimCLR](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Specific%20task%203c%20Self-Supervised%20Learning/simclr-finetune.ipynb)
+[Resnet-15 Scratch](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Specific%20task%203c%20Self-Supervised%20Learning/Resnet-15%20scratch.ipynb)
+
+### Example Notebooks
+[Resnet 15 scratch Example test](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Specific%20task%203c%20Self-Supervised%20Learning/Example%20test%20resnet.ipynb)
+[Resnet 15 SimCLR Finetuned Example Test](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Specific%20task%203c%20Self-Supervised%20Learning/example-sim-clr-finetuned.ipynb)
+
+## Dependencies
+- Python 3.x
+- Jupyter Notebook
+- PyTorch
+- NumPy
+- Pandas
+- Matplotlib
+
+Install these dependencies using pip or conda.
