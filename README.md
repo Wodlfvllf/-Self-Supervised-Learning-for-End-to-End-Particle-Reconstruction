@@ -72,6 +72,10 @@ Trained a Resnet-15 model using SimCLR self-supervised learning approach on unla
 Finetuned the Encoder backbone on labelled dataset.
 Trained the Resnet-15 encoder backbone from scratch.
 
+<p align="center">
+  <img src="https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Specific%20task%203c%20Self-Supervised%20Learning/simclr-general-architecture.png" width="350" title="hover text">
+</p>
+
 ### Comparison of With and Without Pretrained Vision Transformer Model
 
                           | Model               | Accuracy |
