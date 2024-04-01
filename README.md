@@ -80,8 +80,8 @@ Trained the Resnet-15 encoder backbone from scratch.
 
                           | Model               | Accuracy |
                           |---------------------|----------|
-                          | With Pretrained     | 0.7589   |
-                          | Without Pretrained  | 0.790    |
+                          | With Pretrained     | 0.790    |
+                          | Without Pretrained  | 0.7589   |
 
 ### Notebooks
 - [Resnet-15 Pretraining using SimCLR](https://github.com/Wodlfvllf/-Self-Supervised-Learning-for-End-to-End-Particle-Reconstruction/blob/main/Specific%20task%203c%20Self-Supervised%20Learning/SIMCLR%20Pretraining.ipynb)
